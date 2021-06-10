@@ -6,6 +6,10 @@ docker-ubuntu - Custom docker image for development
 
 #### Docker Cheatsheets
 
+```
+docker build -f <Dockerfile> -t <tagname>
+```
+
 #### Docker Cleanup Commands
 
 ```
